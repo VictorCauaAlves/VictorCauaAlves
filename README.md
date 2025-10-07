@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Victor e eu sou um estudante de ciência da computação e atualmente suporte tecnico de TI</h2>
+<h2 align="left">Olá 👋! Meu nome é Victor e eu sou um estudante de ciência da computação e atualmente trabalho como suporte tecnico de TI</h2>
 
 ###
 
@@ -41,6 +41,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
 </div>
-
 
 ###
